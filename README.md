@@ -1,3 +1,5 @@
 # Curso em vídeo - Python
+
+:computer: Exercícios básicos de Python
  ![](imagens/python_logo.png)
-Exercícios básicos de Python
+
