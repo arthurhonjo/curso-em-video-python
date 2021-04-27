@@ -1,4 +1,4 @@
 # Curso em vídeo - Python
-:computer: Exercícios básicos de Python
-<img src="imagens/python_logo.png" width=400><p>
+:computer: Exercícios básicos de Python <p>
+<img src="imagens/python_logo.png" width=400>
 
