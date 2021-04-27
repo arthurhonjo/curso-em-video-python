@@ -1,2 +1,2 @@
-# curso-em-video-python
-Exercícios do Curso de Python
+# Curso em vídeo - Python
+
